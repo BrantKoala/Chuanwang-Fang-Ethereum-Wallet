@@ -9,5 +9,5 @@ This application can:
 6. Transfer ERC20 token
 7. Query transaction information
 8. Query block information
-9. Scan and save new blocks<br>
-This app will only work on the testnet while it is being tested.
+9. Scan and save new blocks
+<br>This app will only work on the testnet while it is being tested.
