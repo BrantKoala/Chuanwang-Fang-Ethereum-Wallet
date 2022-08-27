@@ -1,5 +1,5 @@
 # Chuanwang-Fang-Ethereum-Wallet
-A simple wallet application based on RPC interface provided by web3.js
+A simple wallet application based on RPC interface provided by web3.js<br>
 This application can:
 1. Change network
 2. Create an EOA
